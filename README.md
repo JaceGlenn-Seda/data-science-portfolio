@@ -1,4 +1,4 @@
-# Glen Jace — Data Science Portfolio
+# Jace Glenn — Data Science Portfolio
 
 From raw data to real insight — this portfolio documents my journey as a data scientist and analyst, tackling real-world datasets across global health, finance, economics, and development. Projects span the full analytical pipeline: data cleaning, statistical analysis, visualization, and storytelling with data. Built with Google Sheets, Python, SQL, and more.
 
